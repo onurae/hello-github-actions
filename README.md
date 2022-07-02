@@ -224,7 +224,7 @@ Your new action will run any time a new commit is created or pushed to the remot
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
+<details id=X>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
